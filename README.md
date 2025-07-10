@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<<< HEAD
 # verygood_pos_app
 
 A new Flutter project.
@@ -15,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+=========
 # verygood-pos
 Restaurant Point of Sale System for VERYGOOD 2025, built with Flutter and Supabase.
 >>>>>>> b0c5614c7dfd12b1986e29f58866751edc5b35a1
